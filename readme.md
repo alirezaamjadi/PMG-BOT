@@ -1,5 +1,5 @@
 
-![Screenshot 2025-06-17 053206](https://github.com/user-attachments/assets/77559b97-2f9b-4ed3-b71f-0729ba3d21b0)
+![Screenshot 2025-06-17 053206](https://github.com/user-attachments/assets/5f619b3b-8357-4a09-bda9-baac8dea19cc)
 
 
 # 🎯🤖 PMG Bot | ربات پیش‌بینی مسابقات جایزه دار 🏆🎉
